@@ -1,0 +1,12 @@
+dev/zihasz/sec4j/tests/hashing/SHA2Test.java
+ dev.zihasz.sec4j.tests.hashing.SHA2Test
+dev/zihasz/sec4j/tests/encryption/AESTest.java
+ dev.zihasz.sec4j.tests.encryption.AESTest
+dev/zihasz/sec4j/tests/hashing/SHA256Test.java
+ dev.zihasz.sec4j.tests.hashing.SHA256Test
+dev/zihasz/sec4j/tests/encryption/SESTest.java
+ dev.zihasz.sec4j.tests.encryption.SESTest
+dev/zihasz/sec4j/tests/hashing/SHA1Test.java
+ dev.zihasz.sec4j.tests.hashing.SHA1Test
+dev/zihasz/sec4j/tests/encryption/DESTest.java
+ dev.zihasz.sec4j.tests.encryption.DESTest
